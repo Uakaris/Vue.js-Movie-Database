@@ -1,7 +1,7 @@
 <template>
     <div class="PopularMoviesInfoContainer">
         <div>
-            <router-link to="/movieDatabase" class="HomeButton"
+            <router-link to="/Vue.js-Movie-Database" class="HomeButton"
                 >Home</router-link
             >
         </div>

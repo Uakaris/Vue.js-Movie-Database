@@ -4,16 +4,16 @@ import PopularMoviesInfo from "./components/PopularMoviesInfo/PopularMoviesInfo.
 
 const routes = [
     {
-        path: "/movieDatabase",
+        path: "/Vue.js-Movie-Database",
         component: Home,
     },
     {
-        path: "/movieDataBase/popularMovies",
+        path: "/Vue.js-Movie-Database/popularMovies",
         component: PopularMoviesInfo,
     },
     {
         path: "/", // Route for the root path
-        redirect: "/movieDatabase", // Redirect to your desired route
+        redirect: "/Vue.js-Movie-Database", // Redirect to your desired route
     },
 ];
 

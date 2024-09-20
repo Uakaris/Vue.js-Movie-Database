@@ -2,7 +2,7 @@
     <div class="HomeContainer">
         <h1 class="HomeTitle">Movie Database</h1>
         <router-link
-            to="/movieDatabase/popularMovies"
+            to="/Vue.js-Movie-Database/popularMovies"
             class="PopularButton"
         >
             Popular Movies
