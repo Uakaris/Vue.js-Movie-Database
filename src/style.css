@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    position: relative;
+    background-color: #171717;
+    font-family: "poppins", sans-serif;
+}
+
+#root {
+    position: relative;
+    z-index: 1;
+    min-height: 100vh;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
