@@ -5,4 +5,4 @@ This project was made as part of the TMDB code challenge. I initially made the v
 ## Credits
 
 Credits go to TMDB for supplying the API and to Harry who passed on the challenge information to me so I could practise.
-# Vue.js-Movie-Database
+
