@@ -4,16 +4,16 @@ import PopularMoviesInfo from "./components/PopularMoviesInfo/PopularMoviesInfo.
 
 const routes = [
     {
-        path: "/TMDB-Code-Challenge",
+        path: "/movieDatabase",
         component: Home,
     },
     {
-        path: "/TMDB-Code-Challenge/popularMovies",
+        path: "/movieDataBase/popularMovies",
         component: PopularMoviesInfo,
     },
     {
         path: "/", // Route for the root path
-        redirect: "/TMDB-Code-Challenge", // Redirect to your desired route
+        redirect: "/movieDatabase", // Redirect to your desired route
     },
 ];
 

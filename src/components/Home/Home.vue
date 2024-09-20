@@ -2,7 +2,7 @@
     <div class="HomeContainer">
         <h1 class="HomeTitle">Movie Database</h1>
         <router-link
-            to="/TMDB-Code-Challenge/popularMovies"
+            to="/movieDatabase/popularMovies"
             class="PopularButton"
         >
             Popular Movies

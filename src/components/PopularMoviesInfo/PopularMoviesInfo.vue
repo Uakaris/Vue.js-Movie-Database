@@ -1,7 +1,7 @@
 <template>
     <div class="PopularMoviesInfoContainer">
         <div>
-            <router-link to="/TMDB-Code-Challenge" class="HomeButton"
+            <router-link to="/movieDatabase" class="HomeButton"
                 >Home</router-link
             >
         </div>
