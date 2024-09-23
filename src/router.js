@@ -12,8 +12,8 @@ const routes = [
         component: PopularMoviesInfo,
     },
     {
-        path: "/", // Route for the root path
-        redirect: "/Vue.js-Movie-Database", // Redirect to your desired route
+        path: "/", 
+        redirect: "/Vue.js-Movie-Database", 
     },
 ];
 
